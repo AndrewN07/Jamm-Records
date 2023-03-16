@@ -20,7 +20,7 @@ $(document).ready(function(){
     });
 
     
-// Carousel Auto-Cycle
+// recordplayerCarousel Auto-Cycle
 $(document).ready(function() {
     $('.carousel').carousel({
       interval: 3000
