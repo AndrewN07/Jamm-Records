@@ -257,15 +257,15 @@ nav{
 /*endnavbar*/
 
 /*homepage*/
-/*newcarousel*/
+/*recordplayercarousel*/
 
-#newcarousel img { 
+#rpcarousel img { 
 width: 100%;
 height: 705px;
 padding-top: 77px;
 }
 
-#newcarousel a {
+#rpcarousel a {
 -webkit-transition: all 150ms ease;
 -moz-transition: all 150ms ease;
 -ms-transition: all 150ms ease;
@@ -275,20 +275,20 @@ transition: all 150ms ease;
 
 
 /* Container */
-#newcarousel .newcontainer-fluid {
+#rpcarousel .rpcontainer-fluid {
   background: none;
   margin: 0px auto 0px;
   padding: 0px 0px;
   max-width: 100%;
 }
 
-#newcarousel .newcarousel-control {
+#rpcarousel .rpcarousel-control {
   top: 50%;
 }
 
-/*endnewcarousel*/
+/*endrecordplayercarousel*/
 
-/*recordplayercarousel*/
+/*recommendedcarousel*/
 @import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
 
 .rectitle {
